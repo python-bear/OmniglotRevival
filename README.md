@@ -2,6 +2,10 @@
 
 Modernizing Omniglot by updating its underlying server technology.
 
+## Project Goal Statement
+
+Help the creator of the Omniglot website to create new pages and update old pages by updating the backend technology. In addition to this, to create make the information on his websites more machine-readable.
+
 ## Plan
 These are the things that we need to do for the project:
 
