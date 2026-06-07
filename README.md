@@ -1,0 +1,2 @@
+# OmniglotRevival
+Modernizing Omniglot
