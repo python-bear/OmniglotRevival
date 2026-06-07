@@ -1,5 +1,5 @@
 # OmniglotRevival
-
+Trial Commit - Devansh
 Modernizing Omniglot by updating its underlying server technology.
 
 ## Plan
